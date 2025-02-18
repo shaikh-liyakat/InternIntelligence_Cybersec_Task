@@ -1,6 +1,6 @@
 # Given / Provided Details & Instruction 
 
-Task : Perform a penetration test on a web application to identify and exploit vulnerabilities.
+Task : Perform a penetration test on a web application to identify and exploit vulnerabilities .
 
 Details:
 Scope: Choose a target web application (or use a vulnerable application environment such as OWASP Juice
